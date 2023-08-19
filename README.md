@@ -1,2 +1,2 @@
-# MySQL-Enterprise-Database-Systems
-Apply expertise in SQL DB design, normalization, security, and operations. Use diagrams, manage complex data, troubleshoot, and report effectively.
+# Enterprise Database Systems with MySQL
+In this retail store database development project, I constructed a comprehensive MySQL database incorporating diverse fields, views, functions, procedures, and triggers. It showcased the application of relational algebra, data migration, data warehousing, data mining, distributed databases, and security principles. The result was a systematically designed, normalized SQL database adhering to the 3rd normal form, characterized by appropriate diagrams and database components.
